@@ -1,0 +1,38 @@
+.main-container{
+  width: 55%;
+  margin: 100px auto;
+  padding: 40px 25px;
+  border: 2px solid darkblue;
+}
+.inner-container{
+    border: 1px solid darkblue;
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+}
+.inner-container h2{
+    font-size: 32px;
+    color: darkblue;
+}
+.inner-container h3{
+    font-size: 24px;
+    color: darkblue;
+    margin: 10px;
+}
+.inner-container p{
+    font-size: 20px;
+    color: gray;
+}
+.inner-container button{
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 1px solid darkblue;
+    background-color: white;
+    padding: 10px 30px;
+    margin: 10px;
+}
+.inner-container button:hover{
+    background-color: darkblue;
+    color: white;
+}
